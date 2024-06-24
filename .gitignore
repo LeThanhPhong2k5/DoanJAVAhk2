@@ -1,0 +1,9 @@
+#shit maven rubbish
+target/
+bin/
+.project
+.factorypath
+.classpath
+.settings/
+*.log
+
